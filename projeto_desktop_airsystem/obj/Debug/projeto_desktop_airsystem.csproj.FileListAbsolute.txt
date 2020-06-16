@@ -1,0 +1,12 @@
+C:\Users\fdnpi\OneDrive\Área de Trabalho\Senai\Conteudo_Lidiane\Aplicativo\projeto_desktop_senai\projeto_desktop_airsystem\bin\Debug\projeto_desktop_airsystem.exe.config
+C:\Users\fdnpi\OneDrive\Área de Trabalho\Senai\Conteudo_Lidiane\Aplicativo\projeto_desktop_senai\projeto_desktop_airsystem\bin\Debug\projeto_desktop_airsystem.exe
+C:\Users\fdnpi\OneDrive\Área de Trabalho\Senai\Conteudo_Lidiane\Aplicativo\projeto_desktop_senai\projeto_desktop_airsystem\bin\Debug\projeto_desktop_airsystem.pdb
+C:\Users\fdnpi\OneDrive\Área de Trabalho\Senai\Conteudo_Lidiane\Aplicativo\projeto_desktop_senai\projeto_desktop_airsystem\obj\Debug\projeto_desktop_airsystem.csprojAssemblyReference.cache
+C:\Users\fdnpi\OneDrive\Área de Trabalho\Senai\Conteudo_Lidiane\Aplicativo\projeto_desktop_senai\projeto_desktop_airsystem\obj\Debug\projeto_desktop_airsystem.Properties.Resources.resources
+C:\Users\fdnpi\OneDrive\Área de Trabalho\Senai\Conteudo_Lidiane\Aplicativo\projeto_desktop_senai\projeto_desktop_airsystem\obj\Debug\projeto_desktop_airsystem.csproj.GenerateResource.cache
+C:\Users\fdnpi\OneDrive\Área de Trabalho\Senai\Conteudo_Lidiane\Aplicativo\projeto_desktop_senai\projeto_desktop_airsystem\obj\Debug\projeto_desktop_airsystem.csproj.CoreCompileInputs.cache
+C:\Users\fdnpi\OneDrive\Área de Trabalho\Senai\Conteudo_Lidiane\Aplicativo\projeto_desktop_senai\projeto_desktop_airsystem\obj\Debug\projeto_desktop_airsystem.exe
+C:\Users\fdnpi\OneDrive\Área de Trabalho\Senai\Conteudo_Lidiane\Aplicativo\projeto_desktop_senai\projeto_desktop_airsystem\obj\Debug\projeto_desktop_airsystem.pdb
+C:\Users\fdnpi\OneDrive\Área de Trabalho\Senai\Conteudo_Lidiane\Aplicativo\projeto_desktop_senai\projeto_desktop_airsystem\obj\Debug\projeto_desktop_airsystem.frmLogin.resources
+C:\Users\fdnpi\OneDrive\Área de Trabalho\Senai\Conteudo_Lidiane\Aplicativo\projeto_desktop_senai\projeto_desktop_airsystem\obj\Debug\projeto_desktop_airsystem.Views.frmCadastro.resources
+C:\Users\fdnpi\OneDrive\Área de Trabalho\Senai\Conteudo_Lidiane\Aplicativo\projeto_desktop_senai\projeto_desktop_airsystem\obj\Debug\projeto_desktop_airsystem.Views.frmPrincipal.resources
